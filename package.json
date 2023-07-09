@@ -1,6 +1,7 @@
 {
-  "name": "lambda-cli",
+  "name": "lambda-dev-cli",
   "version": "1.0.0",
+  "private": false,
   "description": "λ 前端脚手架",
   "type": "module",
   "main": "bin/main.js",
